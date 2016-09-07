@@ -5,6 +5,6 @@ package com.example.untitled;
  */
 public class untitled {
     public static void main(String[] args) {
-        System.out.println("Hello,Java");
+        System.out.println("Hello,Java!");
     }
 }
